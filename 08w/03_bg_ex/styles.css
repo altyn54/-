@@ -31,6 +31,7 @@ table {
 
 .wrapper {
 	width: 960px;
+	background-image: url(images/les.jpg);
 	margin-right: auto;
 	margin-left: auto;
     overflow: hidden; /* выравнивание */
@@ -38,6 +39,7 @@ table {
 
 .main {
 	float: right;
+	background-image: url(images/vetka.jpg);
 	width: 565px;
 	margin-right: 15px;
 	padding-top: 25px;
@@ -63,6 +65,7 @@ table {
 
 .banner h1 {
 	font: normal 48px Georgia, "Times New Roman", Times, serif;
+	background-image: url (images/vetka.jpg);
 	text-align: right;
   color: #272D32;
 }
